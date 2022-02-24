@@ -115,7 +115,7 @@ employer groups in the greater Sacramento, Central Valley and Sonoma areas. Netw
 **Project Duration** : Sep-2015 to Nov-2016 <br/>
 **Project Description** : This project is based on e-commerce where users can search products, compare products, buy online and track order history, and make online payments.
 
-**Project 16** : Extract Portal (Client Apttus)<br/>
+**Project 17** : Extract Portal (Client Apttus)<br/>
 **Technologies** : AngularJS, JAVA, JSP, Servlet, MySQL, HTML5, CSS3<br/>
 **Role** : Java Developer <br/>
 **Project Duration** : April-2014 to May-2016<br/>
