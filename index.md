@@ -5,7 +5,7 @@ To attain a challenging position where my knowledge and optimism are put to test
 
 ### PROJECT PORTFOLIO
 
-**Project 1** : Global Bustomer Database (GCDB7)
-**Technologies** : Java, Oracle
-**Role** : Full Stack Developer
+**Project 1** : Global Bustomer Database (GCDB7)<br/>
+**Technologies** : Java, Oracle <br/>
+**Role** : Full Stack Developer <br/>
 **Project Duration** : Jan-2021 to Till Date
