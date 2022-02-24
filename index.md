@@ -93,11 +93,8 @@ your business.
 **Technologies** : AngularJS, JAVA, MySQL, HTML5, CSS3<br/>
 **Role** : Angular Developer <br/>
 **Project Duration** : March-2016 to May-2016  <br/>
-**Project Description** : First legal network is the organization who wants to develop a system
-where users or to be very precise advocates and legal firms can register
-and use portal services as e-filing, case filing and other legal services.
-Users can enter into the portal and upload case related information and
-compile that information.
+**Project Description** : First legal network is the organization who wants to develop a system where users or to be very precise advocates and legal firms can register
+and use portal services as e-filing, case filing and other legal services. Users can enter into the portal and upload case related information and compile that information.
 
 **Project 14** : Sutter Health Plus (Client ITC Bangalore)<br/>
 **Technologies** : AngularJS, JAVA, MySQL, HTML5, CSS3<br/>
