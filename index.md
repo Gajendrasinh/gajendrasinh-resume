@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Gajendrasinh Zala 
+### Full Stack Developer
 
-You can use the [editor on GitHub](https://github.com/Gajendrasinh/gajendrasinh-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To attain a challenging position where my knowledge and optimism are put to test, opportunities which would enhance my skills to work in a competitive industry and would mutually carve a winning edge for the organization
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PROJECT PORTFOLIO
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+## Audit Log Script Generator
+Technologies: Java, Oracle
+Role: Full Stack Developer
+Project Duration: Jan-2021 to Till Date
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
