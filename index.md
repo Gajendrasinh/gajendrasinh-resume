@@ -1,27 +1,11 @@
 ## Gajendrasinh Zala 
 ### Full Stack Developer
 
-To attain a challenging position where my knowledge and optimism are put to test, opportunities which would enhance my skills to work in a competitive industry and would mutually carve a winning edge for the organization
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To attain a challenging position where my knowledge and optimism are put to test, opportunities which would enhance my skills to work in a competitive industry and would mutually carve a winning edge for the organization.
 
 ### PROJECT PORTFOLIO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```
-## Audit Log Script Generator
-Technologies: Java, Oracle
-Role: Full Stack Developer
-Project Duration: Jan-2021 to Till Date
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gajendrasinh/gajendrasinh-resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Project 1** : Global Bustomer Database (GCDB7)
+**Technologies** : Java, Oracle
+**Role** : Full Stack Developer
+**Project Duration** : Jan-2021 to Till Date
